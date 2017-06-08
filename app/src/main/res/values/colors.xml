@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#3F51B5</color>
+
+   <!--Primary dark color of the app (shown in the status bar)-->
+    <color name="colorPrimaryDark">#303F9F</color>
+
+    <!--Accent color of the app -->
+    <color name="colorAccent">#FF4081</color>
+
+    <!--Color of the tab background of the app-->
+    <color name="tabBackground">#02c8a7</color>
+
+    <!--Color of the tab indicator of the  app -->
+    <color name="tabIndicatorColor">#f53240</color>
+
+    <!--Color displayed when the tab is selected-->
+    <color name="tabSelectedTextColor">#f53240</color>
+
+    <!--Color of the Text associated with each tab-->
+    <color name="tabTextColor">#ffffff</color>
+
+    <!--Color of the text in the app-->
+    <color name="textColor">#000000</color>
+
+    <color name="category_north_central">#02c8a7</color>
+</resources>
